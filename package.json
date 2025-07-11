@@ -1,7 +1,14 @@
 {
   "name": "byte-history-site",
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "A minimal site that displays a daily technology milestone.",
   "type": "module",
+  "author": "Zair Bulos <buloszair@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZairBulos/byte-history-site"
+  },
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
